@@ -1,4 +1,4 @@
-#  
+#  Enhance Evernote for macOS with instant Plugin for Evernote for macOS - real-time editing and calendar integration, the #1 plugin. Includes real-time editing and calendar
 
 
 
